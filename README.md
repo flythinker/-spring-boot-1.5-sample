@@ -3,6 +3,12 @@
 
 #### 快速上手
   开发环境的详细默认信息。（[默认信息](default_dev_env.md) ）
+  
+  Spring boot  1.4 中文文档 
+http://blog.didispace.com/books/spring-boot-reference/
+
+Spring Framework 4 中文文档 
+http://blog.didispace.com/books/spring-framework-4-reference/
 
 #### 选型思考
 * 为什么选择 spring boot 1.5.
